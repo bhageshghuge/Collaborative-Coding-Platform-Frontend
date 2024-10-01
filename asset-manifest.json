@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Collaborative-Coding-Platform-Frontend/static/css/main.2cda6a76.css",
-    "main.js": "/Collaborative-Coding-Platform-Frontend/static/js/main.c5f47655.js",
+    "main.js": "/Collaborative-Coding-Platform-Frontend/static/js/main.23e9b985.js",
     "static/js/453.258b012d.chunk.js": "/Collaborative-Coding-Platform-Frontend/static/js/453.258b012d.chunk.js",
     "worker-xquery.js": "/Collaborative-Coding-Platform-Frontend/7a1a62fec334f0f103a8f7126d402e0e.js",
     "mode-php_laravel_blade.js": "/Collaborative-Coding-Platform-Frontend/8356f74c0a10e13df2ef66f334ab29c5.js",
@@ -475,11 +475,11 @@
     "d.js": "/Collaborative-Coding-Platform-Frontend/c98e74fc97b04fe8bf43dcdff549afcf.js",
     "mode-text.js": "/Collaborative-Coding-Platform-Frontend/0ffb18fb70c87335edee31a479f58a43.js",
     "main.2cda6a76.css.map": "/Collaborative-Coding-Platform-Frontend/static/css/main.2cda6a76.css.map",
-    "main.c5f47655.js.map": "/Collaborative-Coding-Platform-Frontend/static/js/main.c5f47655.js.map",
+    "main.23e9b985.js.map": "/Collaborative-Coding-Platform-Frontend/static/js/main.23e9b985.js.map",
     "453.258b012d.chunk.js.map": "/Collaborative-Coding-Platform-Frontend/static/js/453.258b012d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2cda6a76.css",
-    "static/js/main.c5f47655.js"
+    "static/js/main.23e9b985.js"
   ]
 }
