@@ -7,7 +7,7 @@ import OutputDisplay from "./components/OutputDisplay";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
 
-const socket = io("http://localhost:5001");
+const socket = io("https://collaborative-coding-platform-backend.onrender.com/");
 
 function App() {
   const [inRoom, setInRoom] = useState(false);
